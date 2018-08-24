@@ -1,0 +1,13 @@
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.csprojAssemblyReference.cache
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflow1.g.xaml
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo_Workflow1_BeforeInitializeComponentHelper.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\_Workflowdemo.g.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflow1.g.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo_Workflow1_BeforeInitializeComponentHelper.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.csproj.CoreCompileInputs.cache
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.dll
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo.pdb
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo_Workflow1_CompiledExpressionRoot.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml

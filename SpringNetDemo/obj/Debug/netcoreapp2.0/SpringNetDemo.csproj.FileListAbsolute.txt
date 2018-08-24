@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.dll.config
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.deps.json
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.runtimeconfig.json
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\SpringNetDemo.pdb
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\Common.Logging.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\Spring.Core.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\Spring.Core.pdb
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\bin\Debug\netcoreapp2.0\Spring.Core.xml
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.AssemblyInfo.cs
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.csproj.CopyComplete
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SpringNetDemo\obj\Debug\netcoreapp2.0\SpringNetDemo.pdb

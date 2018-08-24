@@ -1,0 +1,4 @@
+obj\x86\Debug\_Workflowdemo.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\Workflowdemo_Workflow1_BeforeInitializeComponentHelper.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\x86\Debug\Workflowdemo_Workflow1_CompiledExpressionRoot.cs

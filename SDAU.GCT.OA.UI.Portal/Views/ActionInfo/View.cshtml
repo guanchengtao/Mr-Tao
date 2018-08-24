@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/juery-form.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#btnUploadFile").click(function () {
+                $("#form").ajaxSubmit({
+                    url: "/ActionInfo/UploadImage",
+                    type: "Post",
+                    success: function (data) {
+                        //把返回的url地址放到页面的隐藏域
+                        //$("#MenuIcon").val(data);
+                        //$("#uploadImg").html("<img src='" + data + "' style='width:100px;height:100px;' />");
+                        alert(data);
+                    }
+                });
+            });
+        })
+    </script>
+</head>
+<body>
+    <div>
+        @using (Ajax.BeginForm("Add", "ActionInfo",
+         null,FormMethod.Post))
+        {
+            <input type="file" id="fileMenuIcon" name="fileMenuIcon" />
+            <input type="button" value="上传" id="btnUploadFile" />
+            <div id="uploadImg">
+
+            </div>
+
+
+        })
+    </div>
+</body>
+</html>

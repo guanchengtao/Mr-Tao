@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SpringNetDemo/1.0.0": {
+        "dependencies": {
+          "Common.Logging": "2.1.1.0",
+          "Spring.Core": "2.0.0.40000"
+        },
+        "runtime": {
+          "SpringNetDemo.dll": {}
+        }
+      },
+      "Common.Logging/2.1.1.0": {
+        "runtime": {
+          "Common.Logging.dll": {}
+        }
+      },
+      "Spring.Core/2.0.0.40000": {
+        "runtime": {
+          "Spring.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpringNetDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Logging/2.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spring.Core/2.0.0.40000": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

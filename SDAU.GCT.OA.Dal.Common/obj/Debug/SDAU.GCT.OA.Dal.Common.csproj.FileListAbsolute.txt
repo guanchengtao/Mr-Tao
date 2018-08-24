@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\bin\Debug\SDAU.GCT.OA.Dal.Common.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\bin\Debug\SDAU.GCT.OA.Dal.Common.pdb
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\obj\Debug\SDAU.GCT.OA.Dal.Common.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\obj\Debug\SDAU.GCT.OA.Dal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\obj\Debug\SDAU.GCT.OA.Dal.Common.dll
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.Dal.Common\obj\Debug\SDAU.GCT.OA.Dal.Common.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object name="StudentDal1"      type="SpringNetDemo1.StudentDal,SpringNetDemo1">
+    <!--构造函数注入：index表示第几个构造函数 value表示赋值-->
+    <constructor-arg index="0" value="constructor-arg-fuzhi"/>
+  </object>
+
+</objects>

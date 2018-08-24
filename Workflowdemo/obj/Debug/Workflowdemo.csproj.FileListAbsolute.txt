@@ -1,0 +1,8 @@
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflow1.g.xaml
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflowdemo_Workflow1_BeforeInitializeComponentHelper.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\_Workflowdemo.g.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflow1.g.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflowdemo_Workflow1_BeforeInitializeComponentHelper.cs
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflowdemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflowdemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Source\OA\SDAU.GCT.OA2\Workflowdemo\obj\Debug\Workflowdemo.csprojAssemblyReference.cache

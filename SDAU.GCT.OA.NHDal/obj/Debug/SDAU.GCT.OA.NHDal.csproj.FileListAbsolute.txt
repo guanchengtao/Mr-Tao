@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.NHDal\obj\Debug\SDAU.GCT.OA.NHDal.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.NHDal\obj\Debug\SDAU.GCT.OA.NHDal.csproj.CoreCompileInputs.cache
+D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.NHDal\obj\Debug\SDAU.GCT.OA.NHDal.csprojAssemblyReference.cache
+D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.NHDal\obj\Debug\SDAU.GCT.OA.NHDal.csproj.CoreCompileInputs.cache
