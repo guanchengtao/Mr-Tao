@@ -138,3 +138,4 @@ D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.UnitText\obj\Debug\SDAU.GCT.OA.UnitText.cs
 D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.UnitText\obj\Debug\SDAU.GCT.OA.UnitText.csproj.CopyComplete
 D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.UnitText\obj\Debug\SDAU.GCT.OA.UnitText.dll
 D:\Source\OA\SDAU.GCT.OA2\SDAU.GCT.OA.UnitText\obj\Debug\SDAU.GCT.OA.UnitText.pdb
+D:\OA\SDAU.GCT.OA.UnitText\bin\Debug\EntityFramework.dll
